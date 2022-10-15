@@ -18,7 +18,8 @@ Road Map for Most popular Rust libraries
 - [ ] quote #macros #syn
 
 - more: anyhow, libc, proc-macro2, chrono, once_cell, **futures**, base64, **num-traits**, url, env_logger, bytes, **itertools**, ..
-- more: cfg-if, bitflags, async-trait, time, uuid, hex, indexmap, http, rayon, hyper, winapi, glob, either, strum, num-bigint, unicode-idth, termcolor, itoa, textwrap, generic-array, socket2, num-integer, csv, image, predicates, zip, num-derive, derivative, num_enum, png, 
+- more: cfg-if, bitflags, async-trait, time, uuid, hex, indexmap, http, rayon, hyper, winapi, glob, either, strum, num-bigint, unicode-idth, termcolor, itoa, textwrap, generic-array, socket2, num-integer, csv, image, predicates, zip, num-derive, derivative, num_enum, png  
+ 
 RoadMap for Game Development
 - [ ] bevy
 - [ ] wgpu
