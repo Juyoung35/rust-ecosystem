@@ -2,7 +2,7 @@
 Browsing rust libraries, learning them, picking out good ones, binding other libraries from other programming languages
 
 Browse rust libraries from: [crates.io](https://crates.io), [lib.rs](https://lib.rs)  
-.
+
 Road Map for Most popular Rust libraries
 ========================================
 - [ ] serde #serde #serialization #no-std
